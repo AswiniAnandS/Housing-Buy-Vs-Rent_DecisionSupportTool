@@ -1,0 +1,1 @@
+The objective of this project is to create an Excel-based decision-making tool that will consider the costs of buying a house versus renting a similar one and provide a decision based on the current market situation.
